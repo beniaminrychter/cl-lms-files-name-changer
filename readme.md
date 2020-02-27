@@ -14,7 +14,7 @@ const options = {
 
 Przy takim ustawieniu, zostanie przeszukany folder "additional" który jest o poziom wyżej niż repozytorium z tym skryptem.
 
-
+4. `npm start`
 
 Skrypt zmodyfikuje pliki podane w `options.files` i doda im odpowiedni prefix (`options.prefix`) pomiędzy wartością liczbową (`01`, `02` itd.) a właściwą nazwą prezentacji.
 
